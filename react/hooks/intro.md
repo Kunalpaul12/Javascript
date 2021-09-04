@@ -9,3 +9,30 @@ We already have a class that works well then why hooks ....?
 - Class does not minify very well and thus they make hot reloading flaky and unreliable 
 
 - For most of the newer developer the concept of classes such as bind and this is very hard to understand
+
+
+## Types of Hooks
+
+# Basic
+
+- useState
+
+- useEffect
+
+- useContex 
+
+# Additional 
+
+- useReducer
+
+- useRef
+
+- useMemo
+
+- useCallback
+
+- useLayoutEffect   
+
+- useDebugValue
+
+- useImperativeHandle
