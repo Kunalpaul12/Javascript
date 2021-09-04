@@ -1,0 +1,22 @@
+{
+    "grammarly.overrides": [
+        {
+            "files": [
+                "**/react/hooks/intro.md"
+            ],
+            "config": {
+                "audience": "knowledgeable",
+                "dialect": "american",
+                "domain": "technical",
+                "emotions": [
+                    "confident",
+                    "joyful",
+                    "friendly"
+                ],
+                "goals": [
+                    "inform"
+                ]
+            }
+        }
+    ]
+}
