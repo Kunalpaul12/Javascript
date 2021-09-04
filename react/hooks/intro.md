@@ -1,4 +1,4 @@
-### Hooks introduce in React 16.8 to use React feature in function component in react native it was introduce in 0.59
+# Hooks introduce in React 16.8 to use React feature in function component in react native it was introduce in 0.59
 
 ## Why Hooks
 
@@ -13,7 +13,7 @@ We already have a class that works well then why hooks ....?
 
 ## Types of Hooks
 
-# Basic
+### Basic
 
 - useState
 
@@ -21,7 +21,7 @@ We already have a class that works well then why hooks ....?
 
 - useContex 
 
-# Additional 
+#### Additional 
 
 - useReducer
 
